@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1534464559 source:c:\users\adm\desktop\programa«√o\relogio\main.cpp
+	<iostream>
+	"Relogio.h"
+
+1534464526 c:\users\adm\desktop\programa«√o\relogio\include\relogio.h
+	<iostream>
+	<string.h>
+
+1534464628 source:c:\users\adm\desktop\programa«√o\relogio\src\relogio.cpp
+	"Relogio.h"
+
